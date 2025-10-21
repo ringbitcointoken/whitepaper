@@ -1,1 +1,1 @@
-[https://github.com/ringbitcointoken/whitepaper.git](https://github.com/ringbitcointoken/whitepaper/tree/main)
+https://github.com/ringbitcointoken/whitepaper/blob/main/RingBitcoinToken_Whitepaper_EN.pdf
